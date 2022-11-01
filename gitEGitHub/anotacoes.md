@@ -11,4 +11,4 @@
 - Comando **$ git status ** mostra o status do repositório;
 - Comando **$  git add * ** marca todos os arquivos da pasta para serem rastreados;
 - comando **$ git commit -m "[Mensagem do commit]" ** faz commit das mudanças do repositório;
-- comando **$ git clone [Link do Repositório]** clona um repositório na pasta atual
+- comando **$ git clone [Link do Repositório]** clona um repositório na pasta atual.
