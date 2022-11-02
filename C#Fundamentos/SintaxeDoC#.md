@@ -52,4 +52,5 @@
 - Utilizar tipo de dado certo dependendo da precisão ou tamanho;
 - A variavél é um espaço da memória do computador;
 - È possíverl armazenar data e hora com o tipo DateTime;
-- Exemplo DateTime: **DateTime dataAtual = DateTime.Now**, representa o momento atual;
+- Exemplo DateTime: **DateTime dataAtual = DateTime.Now**, representa o momento atual.
+- Pdf dos [slides](https://drive.google.com/file/d/1YLYvIKpMs4d0P2YoiMsoo7aUdheX6g5k/view) da aula.
