@@ -7,3 +7,4 @@
 - O arquivo program.cs é o ponto de entrada principal do projeto;
 - Antes da versão 6.0 o código era implementado dentro do método **main**, logo após o método main está oculto;
 - Não há problema em inserir o método main nas novas versões, apenas não será usado;
+- [Slides](https://drive.google.com/file/d/1JPKcUPpxdjCipJFzeND2WuOM8npY7vzL/view) da aula.
